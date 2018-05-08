@@ -1,0 +1,13 @@
+.frisco img{
+    height: 200px;
+    width: 100%;
+}
+#search-engine input{
+    visibility: hidden;
+}
+#search-engine:hover input{
+    visibility: visible;
+}
+/* #search-engine i {
+    height: 100px;
+} */

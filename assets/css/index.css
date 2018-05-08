@@ -1,3 +1,7 @@
+#naviClass {
+    font-family: 'Abel';
+    font-size: 18px;
+}
 .frisco img{
     height: 200px;
     width: 100%;
@@ -11,3 +15,15 @@
 /* #search-engine i {
     height: 100px;
 } */
+footer {
+    height: 150px;
+    background-color: rgba(0, 0, 0, 0.774);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 30px;
+    border-top: 2px solid silver;
+    box-shadow: 500px 500px 800px 800px rgba(255, 145, 0, 0.568);
+    font-family: 'Abel';
+
+}
